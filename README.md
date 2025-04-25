@@ -23,7 +23,7 @@ This is a Telegram chatbot that provides currency conversion with a twist—it d
 
 ### Prerequisites 📌
 Ensure you have the following installed:
-- 🐍 Python 3.x
+- 🐍 Python 3.11
 - 🔥 Flask
 - 🌍 Ngrok
 - 🤖 A Telegram bot token (from @BotFather)
