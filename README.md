@@ -29,13 +29,13 @@ This is a Telegram chatbot that provides currency conversion with a twist—it d
     * 📂 Project Management: Organizing project files, managing dependencies, and integrating with version control systems like Git.
 
 * 💰 **Currency Converter API:** This is a third-party Application Programming Interface that provides real-time currency exchange rates. The chatbot relies on this API to:
-    * 实时 Fetch Live Rates: Obtain the most current exchange rates between different currencies.
+    *  # Fetch Live Rates: Obtain the most current exchange rates between different currencies.
     * ⚙️ Data Integration: Allow the backend to programmatically query for specific exchange rates based on the user's request.
     * ✅ Conversion Accuracy: Ensure the chatbot provides accurate currency conversions based on up-to-date market data.
 
 * 🐍 **Python & Flask:** These form the backend of the chatbot, responsible for the core logic and communication:
     * 🐍 Python: The programming language used to write the backend code due to its versatility and extensive libraries.
-    * <0xF0><0x9F><0xAA><0xB1> Flask: A lightweight and flexible micro web framework for Python. It is used to:
+    * Flask: A lightweight and flexible micro web framework for Python. It is used to:
         * 🔗 Handle Webhooks: Create endpoints (URLs) that can receive HTTP POST requests from Dialogflow containing the user's intent and entities.
         * 🧠 Process Logic: Implement the code to take the extracted information, query the Currency Converter API, perform the calculation, and format the response.
         * ✈️ Interact with Telegram API: Use libraries to communicate with the Telegram Bot API for sending messages back to the user.
@@ -59,7 +59,7 @@ Ensure you have the following installed:
 ### Steps 🏗️
 1. 📥 Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/currency-converter-chatbot.git
+   git clone https://github.com/ArpitKharwade/currency-converter-chatbot.git
    cd currency-converter-chatbot
    ```
 2. 📦 Install dependencies:
