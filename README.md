@@ -29,7 +29,7 @@ This is a Telegram chatbot that provides currency conversion with a twist—it d
     * 📂 Project Management: Organizing project files, managing dependencies, and integrating with version control systems like Git.
 
 * 💰 **Currency Converter API:** This is a third-party Application Programming Interface that provides real-time currency exchange rates. The chatbot relies on this API to:
-    *  # Fetch Live Rates: Obtain the most current exchange rates between different currencies.
+    * Fetch Live Rates: Obtain the most current exchange rates between different currencies.
     * ⚙️ Data Integration: Allow the backend to programmatically query for specific exchange rates based on the user's request.
     * ✅ Conversion Accuracy: Ensure the chatbot provides accurate currency conversions based on up-to-date market data.
 
